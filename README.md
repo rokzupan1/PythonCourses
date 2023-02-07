@@ -38,7 +38,7 @@ After Conda, I installed VSCode and inside VSCode I installed extensions pyhton 
 it already came with python). After that we wrote the first line: x = 5 and I was asked to install
 ipykernel in order that python can work. 
 
-# is a symbol used for commenting. Markdown is a special formatter that allows you to write out a lot
+hashtag is a symbol used for commenting. Markdown is a special formatter that allows you to write out a lot
 of text in different formats and can convert into HTML very easily, which is really useful if you want
 to show your analysis in a universal format that everyone will understand. 
 

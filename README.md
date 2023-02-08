@@ -1,11 +1,13 @@
 # PythonCourses
 ## PythonforDataAnalysts
-* [basic_python_datatypes]()
-* [numpy_tutorial]()
-* [pandas_tutorial]()
-* [NetflixTable1]()
-* [NetflixTable2]()
-* [NetflixTabel3]()
+
+* [basic_python_datatypes](https://github.com/rokzupan1/PythonCourses/blob/main/basic_python_datatypes.ipynb)
+* [numpy_tutorial](https://github.com/rokzupan1/PythonCourses/blob/main/numpy_tutorial.ipynb)
+* [pandas_tutorial](https://github.com/rokzupan1/PythonCourses/blob/main/pandas_tutorial.ipynb)
+* [NetflixTable1](https://github.com/rokzupan1/PythonCourses/blob/main/netflix_titles.csv)
+* [NetflixTable2](https://github.com/rokzupan1/PythonCourses/blob/main/netflix_titles_second.csv)
+* [SimpleTable3](https://github.com/rokzupan1/PythonCourses/blob/main/simple_csv.csv)
+
 Python is a high-level, object-oriented programming language. 
 
 - High-level: What you program in Python is abstracted away from the actual operations a computer 

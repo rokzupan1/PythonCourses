@@ -1,5 +1,11 @@
 # PythonCourses
 ## PythonforDataAnalysts
+* [basic_python_datatypes]()
+* [numpy_tutorial]()
+* [pandas_tutorial]()
+* [NetflixTable1]()
+* [NetflixTable2]()
+* [NetflixTabel3]()
 Python is a high-level, object-oriented programming language. 
 
 - High-level: What you program in Python is abstracted away from the actual operations a computer 
@@ -44,3 +50,8 @@ to show your analysis in a universal format that everyone will understand.
 
 In this course we will be learning about basic python, Pandas and NumPy. Basic python is something I
 need to cover but not something it is the most important to know as a data analyst. 
+
+## SurveyMonkeyDataTransformation
+I will learn how to manipulate data using python and pandas in order to turn survey monkey
+dataset that comes in a wide format into a long format, that way you can take the data and
+visualize it with Power BI and Tableau.

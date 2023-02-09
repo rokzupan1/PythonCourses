@@ -57,3 +57,5 @@ need to cover but not something it is the most important to know as a data analy
 I will learn how to manipulate data using python and pandas in order to turn survey monkey
 dataset that comes in a wide format into a long format, that way you can take the data and
 visualize it with Power BI and Tableau.
+First I edited the the Excel files following the youtube video. 
+* [TransposeExcel](https://github.com/rokzupan1/PythonCourses/blob/main/Data%20-%20Survey%20Monkey%20Output%20MyEdit.xlsx)

@@ -60,8 +60,9 @@ visualize it with Power BI and Tableau.
 In anaconda prompt: conda install pandas. In my case it was already installed so I was able to import pandas as pd. Important
 was also to select the right version of python. In this case I am using: base(Python 3.10.8) 
 Through the video: how to import data from excel into pandas, how to rename columns, melting or un-pivoting, do a join, drop columns, aggregate columns.
-First I edited the the Excel files following the youtube video. 
+First I edited the the Excel files following the youtube video:
 * [ExcelEdit](https://github.com/rokzupan1/PythonCourses/blob/main/Data%20-%20Survey%20Monkey%20Output%20MyEdit.xlsx)
 Then I learned how to get data in a long type of data from a wide type of data. The final version of transposed table is here:
 * [MyFinal_Output](https://github.com/rokzupan1/PythonCourses/blob/main/MyFinal_Output.xlsx)
-using this script in pyhton: * [My_Data_Manipulation](https://github.com/rokzupan1/PythonCourses/blob/main/Script1%20-%20My_Data_Manipulation.ipynb)
+using this script in pyhton: 
+* [My_Data_Manipulation](https://github.com/rokzupan1/PythonCourses/blob/main/Script1%20-%20My_Data_Manipulation.ipynb)

@@ -1,4 +1,8 @@
 # PythonCourses
+## Python for Data Science - OOP, Classes and Inheritance
+https://www.youtube.com/watch?v=boEUcROx1N8&list=WL&index=1
+A class or type's methods are functions that every instance of that class or the type provides. It's how you interact with the data in a object. Sorting is an example o a method that interacts with the data in the object. You can create your own type or class in python. The class has data attributes and methods. We can create objects or instances of that class.
+
 ## PythonforDataAnalysts
 
 * [basic_python_datatypes](https://github.com/rokzupan1/PythonCourses/blob/main/basic_python_datatypes.ipynb)

@@ -1,5 +1,6 @@
 # PythonCourses
 ## Object Oriented Programming with Python - Full Course for Beginners
+Object Oriented Programming is an important concept in software development. In this complete tutorial, you will learn all about OOP and how to implement it using Python.
 
 ## Python for Data Science - OOP, Classes and Inheritance
 https://www.youtube.com/watch?v=boEUcROx1N8&list=WL&index=1
